@@ -178,12 +178,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/hottlerbf",
+	"image": "characters/HottlerBF",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "hottlerbf",
+	"healthicon": "HottlerBF",
 	"flip_x": true,
 	"healthbar_colors": [
 		49,
