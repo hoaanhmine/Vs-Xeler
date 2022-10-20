@@ -1,0 +1,48 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				250
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Transformation 2",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-53,
+				279
+			],
+			"indices": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "Tranformation 2",
+			"loop": false,
+			"name": "Transformation 2"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Transformation2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Xeler",
+	"flip_x": false,
+	"healthbar_colors": [
+		46,
+		49,
+		194
+	],
+	"camera_position": [
+		100,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Xeler faker.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Xeler faker Down0000" x="0" y="0" width="397" height="510" frameX="-85" frameY="-80" frameWidth="496" frameHeight="591"/>
+	<SubTexture name="Xeler faker Down0001" x="397" y="0" width="400" height="503" frameX="-89" frameY="-87" frameWidth="496" frameHeight="591"/>
+	<SubTexture name="Xeler faker Down0002" x="797" y="0" width="402" height="497" frameX="-94" frameY="-93" frameWidth="496" frameHeight="591"/>
+	<SubTexture name="Xeler faker Down0003" x="797" y="0" width="402" height="497" frameX="-94" frameY="-93" frameWidth="496" frameHeight="591"/>
+	<SubTexture name="Xeler faker Down0004" x="1199" y="0" width="389" height="518" frameX="-79" frameY="-72" frameWidth="496" frameHeight="591"/>
+	<SubTexture name="Xeler faker Down0005" x="1199" y="0" width="389" height="518" frameX="-79" frameY="-72" frameWidth="496" frameHeight="591"/>
+	<SubTexture name="Xeler faker Down0006" x="1588" y="0" width="396" height="549" frameX="-49" frameY="-41" frameWidth="496" frameHeight="591"/>
+	<SubTexture name="Xeler faker Down0007" x="1588" y="0" width="396" height="549" frameX="-49" frameY="-41" frameWidth="496" frameHeight="591"/>
+	<SubTexture name="Xeler faker Down0008" x="1984" y="0" width="395" height="573" frameX="-32" frameY="-18" frameWidth="496" frameHeight="591"/>
+	<SubTexture name="Xeler faker Down0009" x="2379" y="0" width="406" height="591" frameX="0" frameY="0" frameWidth="496" frameHeight="591"/>
+	<SubTexture name="Xeler faker Down0010" x="2785" y="0" width="406" height="584" frameX="-1" frameY="-7" frameWidth="496" frameHeight="591"/>
+	<SubTexture name="Xeler faker Idle0000" x="3191" y="0" width="406" height="585" frameX="-8" frameY="-15" frameWidth="414" frameHeight="600"/>
+	<SubTexture name="Xeler faker Idle0001" x="3191" y="0" width="406" height="585" frameX="-8" frameY="-15" frameWidth="414" frameHeight="600"/>
+	<SubTexture name="Xeler faker Idle0002" x="3597" y="0" width="397" height="589" frameX="-6" frameY="-11" frameWidth="414" frameHeight="600"/>
+	<SubTexture name="Xeler faker Idle0003" x="3597" y="0" width="397" height="589" frameX="-6" frameY="-11" frameWidth="414" frameHeight="600"/>
+	<SubTexture name="Xeler faker Idle0004" x="0" y="591" width="392" height="592" frameX="-3" frameY="-8" frameWidth="414" frameHeight="600"/>
+	<SubTexture name="Xeler faker Idle0005" x="0" y="591" width="392" height="592" frameX="-3" frameY="-8" frameWidth="414" frameHeight="600"/>
+	<SubTexture name="Xeler faker Idle0006" x="392" y="591" width="387" height="600" frameX="0" frameY="0" frameWidth="414" frameHeight="600"/>
+	<SubTexture name="Xeler faker Idle0007" x="392" y="591" width="387" height="600" frameX="0" frameY="0" frameWidth="414" frameHeight="600"/>
+	<SubTexture name="Xeler faker Idle0008" x="779" y="591" width="388" height="598" frameX="0" frameY="-2" frameWidth="414" frameHeight="600"/>
+	<SubTexture name="Xeler faker Idle0009" x="779" y="591" width="388" height="598" frameX="0" frameY="-2" frameWidth="414" frameHeight="600"/>
+	<SubTexture name="Xeler faker Idle0010" x="779" y="591" width="388" height="598" frameX="0" frameY="-2" frameWidth="414" frameHeight="600"/>
+	<SubTexture name="Xeler faker Idle0011" x="779" y="591" width="388" height="598" frameX="0" frameY="-2" frameWidth="414" frameHeight="600"/>
+	<SubTexture name="Xeler faker Idle0012" x="779" y="591" width="388" height="598" frameX="0" frameY="-2" frameWidth="414" frameHeight="600"/>
+	<SubTexture name="Xeler faker Idle0013" x="779" y="591" width="388" height="598" frameX="0" frameY="-2" frameWidth="414" frameHeight="600"/>
+	<SubTexture name="Xeler faker Idle0014" x="779" y="591" width="388" height="598" frameX="0" frameY="-2" frameWidth="414" frameHeight="600"/>
+	<SubTexture name="Xeler faker Up0000" x="1167" y="591" width="370" height="635" frameX="-81" frameY="-14" frameWidth="473" frameHeight="651"/>
+	<SubTexture name="Xeler faker Up0001" x="1537" y="591" width="372" height="640" frameX="-86" frameY="-9" frameWidth="473" frameHeight="651"/>
+	<SubTexture name="Xeler faker Up0002" x="1909" y="591" width="372" height="649" frameX="-88" frameY="0" frameWidth="473" frameHeight="651"/>
+	<SubTexture name="Xeler faker Up0003" x="1909" y="591" width="372" height="649" frameX="-88" frameY="0" frameWidth="473" frameHeight="651"/>
+	<SubTexture name="Xeler faker Up0004" x="2281" y="591" width="385" height="616" frameX="-88" frameY="-34" frameWidth="473" frameHeight="651"/>
+	<SubTexture name="Xeler faker Up0005" x="2281" y="591" width="385" height="616" frameX="-88" frameY="-34" frameWidth="473" frameHeight="651"/>
+	<SubTexture name="Xeler faker Up0006" x="2666" y="591" width="389" height="566" frameX="-77" frameY="-84" frameWidth="473" frameHeight="651"/>
+	<SubTexture name="Xeler faker Up0007" x="2666" y="591" width="389" height="566" frameX="-77" frameY="-84" frameWidth="473" frameHeight="651"/>
+	<SubTexture name="Xeler faker Up0008" x="3055" y="591" width="385" height="563" frameX="-67" frameY="-88" frameWidth="473" frameHeight="651"/>
+	<SubTexture name="Xeler faker Up0009" x="3440" y="591" width="390" height="563" frameX="-23" frameY="-87" frameWidth="473" frameHeight="651"/>
+	<SubTexture name="Xeler faker Up0010" x="3191" y="0" width="406" height="585" frameX="0" frameY="-65" frameWidth="414" frameHeight="600"/>
+	<SubTexture name="Xeler faker left0000" x="0" y="1240" width="464" height="604" frameX="-33" frameY="-13" frameWidth="597" frameHeight="617"/>
+	<SubTexture name="Xeler faker left0001" x="464" y="1240" width="472" height="608" frameX="-24" frameY="-9" frameWidth="597" frameHeight="617"/>
+	<SubTexture name="Xeler faker left0002" x="936" y="1240" width="486" height="617" frameX="0" frameY="0" frameWidth="597" frameHeight="617"/>
+	<SubTexture name="Xeler faker left0003" x="936" y="1240" width="486" height="617" frameX="0" frameY="0" frameWidth="597" frameHeight="617"/>
+	<SubTexture name="Xeler faker left0004" x="1422" y="1240" width="463" height="609" frameX="-45" frameY="-8" frameWidth="597" frameHeight="617"/>
+	<SubTexture name="Xeler faker left0005" x="1422" y="1240" width="463" height="609" frameX="-45" frameY="-8" frameWidth="597" frameHeight="617"/>
+	<SubTexture name="Xeler faker left0006" x="1885" y="1240" width="420" height="579" frameX="-119" frameY="-38" frameWidth="597" frameHeight="617"/>
+	<SubTexture name="Xeler faker left0007" x="1885" y="1240" width="420" height="579" frameX="-119" frameY="-38" frameWidth="597" frameHeight="617"/>
+	<SubTexture name="Xeler faker left0008" x="2305" y="1240" width="426" height="591" frameX="-154" frameY="-26" frameWidth="597" frameHeight="617"/>
+	<SubTexture name="Xeler faker left0009" x="2731" y="1240" width="424" height="570" frameX="-173" frameY="-47" frameWidth="597" frameHeight="617"/>
+	<SubTexture name="Xeler faker left0010" x="3155" y="1240" width="406" height="584" frameX="-175" frameY="-32" frameWidth="597" frameHeight="617"/>
+	<SubTexture name="Xeler faker right0000" x="3561" y="1240" width="450" height="612" frameX="-146" frameY="-11" frameWidth="598" frameHeight="623"/>
+	<SubTexture name="Xeler faker right0001" x="0" y="1857" width="443" height="616" frameX="-151" frameY="-7" frameWidth="598" frameHeight="623"/>
+	<SubTexture name="Xeler faker right0002" x="443" y="1857" width="440" height="623" frameX="-158" frameY="0" frameWidth="598" frameHeight="623"/>
+	<SubTexture name="Xeler faker right0003" x="443" y="1857" width="440" height="623" frameX="-158" frameY="0" frameWidth="598" frameHeight="623"/>
+	<SubTexture name="Xeler faker right0004" x="883" y="1857" width="460" height="614" frameX="-133" frameY="-9" frameWidth="598" frameHeight="623"/>
+	<SubTexture name="Xeler faker right0005" x="883" y="1857" width="460" height="614" frameX="-133" frameY="-9" frameWidth="598" frameHeight="623"/>
+	<SubTexture name="Xeler faker right0006" x="1343" y="1857" width="467" height="598" frameX="-91" frameY="-25" frameWidth="598" frameHeight="623"/>
+	<SubTexture name="Xeler faker right0007" x="1343" y="1857" width="467" height="598" frameX="-91" frameY="-25" frameWidth="598" frameHeight="623"/>
+	<SubTexture name="Xeler faker right0008" x="1810" y="1857" width="500" height="588" frameX="-16" frameY="-35" frameWidth="598" frameHeight="623"/>
+	<SubTexture name="Xeler faker right0009" x="2310" y="1857" width="385" height="579" frameX="0" frameY="-44" frameWidth="598" frameHeight="623"/>
+	<SubTexture name="Xeler faker right0010" x="3191" y="0" width="406" height="585" frameX="-2" frameY="-38" frameWidth="414" frameHeight="600"/>
+</TextureAtlas>

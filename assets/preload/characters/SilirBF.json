@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-90,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Silir bf idle"
+		},
+		{
+			"offsets": [
+				-32,
+				-178
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Silir bf left"
+		},
+		{
+			"offsets": [
+				29,
+				-189
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Silir bf down"
+		},
+		{
+			"offsets": [
+				98,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Silir bf up"
+		},
+		{
+			"offsets": [
+				-91,
+				-199
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Silir bf right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SilirBF",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "SilirBF",
+	"flip_x": true,
+	"healthbar_colors": [
+		209,
+		49,
+		61
+	],
+	"camera_position": [
+		-40,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

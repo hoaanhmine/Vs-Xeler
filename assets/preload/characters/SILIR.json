@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Silir Idle"
+		},
+		{
+			"offsets": [
+				262,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Silir Left"
+		},
+		{
+			"offsets": [
+				-22,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Silir Down"
+		},
+		{
+			"offsets": [
+				27,
+				429
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Silir Up"
+		},
+		{
+			"offsets": [
+				-13,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Silir Right"
+		},
+		{
+			"offsets": [
+				-32,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNalt",
+			"indices": [],
+			"name": "Silir Laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SILIR",
+	"position": [
+		0,
+		210
+	],
+	"healthicon": "SILIR",
+	"flip_x": false,
+	"healthbar_colors": [
+		56,
+		14,
+		155
+	],
+	"camera_position": [
+		-50,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

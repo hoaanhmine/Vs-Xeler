@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SILIR.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Silir Down0000" x="0" y="0" width="515" height="438" frameX="-13" frameY="-153" frameWidth="607" frameHeight="591"/>
+	<SubTexture name="Silir Down0001" x="515" y="0" width="530" height="427" frameX="-32" frameY="-164" frameWidth="607" frameHeight="591"/>
+	<SubTexture name="Silir Down0002" x="1045" y="0" width="555" height="405" frameX="-52" frameY="-186" frameWidth="607" frameHeight="591"/>
+	<SubTexture name="Silir Down0003" x="1600" y="0" width="555" height="405" frameX="-52" frameY="-186" frameWidth="607" frameHeight="591"/>
+	<SubTexture name="Silir Down0004" x="2155" y="0" width="547" height="442" frameX="-12" frameY="-148" frameWidth="607" frameHeight="591"/>
+	<SubTexture name="Silir Down0005" x="2702" y="0" width="547" height="442" frameX="-12" frameY="-148" frameWidth="607" frameHeight="591"/>
+	<SubTexture name="Silir Down0006" x="3249" y="0" width="508" height="488" frameX="-13" frameY="-102" frameWidth="607" frameHeight="591"/>
+	<SubTexture name="Silir Down0007" x="3757" y="0" width="508" height="488" frameX="-13" frameY="-102" frameWidth="607" frameHeight="591"/>
+	<SubTexture name="Silir Down0008" x="4265" y="0" width="485" height="531" frameX="-9" frameY="-58" frameWidth="607" frameHeight="591"/>
+	<SubTexture name="Silir Down0009" x="4750" y="0" width="529" height="590" frameX="-5" frameY="0" frameWidth="607" frameHeight="591"/>
+	<SubTexture name="Silir Down0010" x="5279" y="0" width="567" height="571" frameX="0" frameY="-19" frameWidth="607" frameHeight="591"/>
+	<SubTexture name="Silir Idle0000" x="567" y="2097" width="567" height="571" frameX="-12" frameY="-8" frameWidth="624" frameHeight="947"/>
+	<SubTexture name="Silir Idle0001" x="567" y="2097" width="567" height="571" frameX="-12" frameY="-8" frameWidth="624" frameHeight="947"/>
+	<SubTexture name="Silir Idle0002" x="5846" y="0" width="575" height="574" frameX="-7" frameY="-5" frameWidth="588" frameHeight="579"/>
+	<SubTexture name="Silir Idle0003" x="5846" y="0" width="575" height="574" frameX="-7" frameY="-5" frameWidth="588" frameHeight="579"/>
+	<SubTexture name="Silir Idle0004" x="6421" y="0" width="582" height="577" frameX="-3" frameY="-2" frameWidth="588" frameHeight="579"/>
+	<SubTexture name="Silir Idle0005" x="6421" y="0" width="582" height="577" frameX="-3" frameY="-2" frameWidth="588" frameHeight="579"/>
+	<SubTexture name="Silir Idle0006" x="7003" y="0" width="587" height="579" frameX="0" frameY="0" frameWidth="588" frameHeight="579"/>
+	<SubTexture name="Silir Idle0007" x="7003" y="0" width="587" height="579" frameX="0" frameY="0" frameWidth="588" frameHeight="579"/>
+	<SubTexture name="Silir Idle0008" x="7590" y="0" width="588" height="579"/>
+	<SubTexture name="Silir Laugh0000" x="0" y="590" width="512" height="518" frameX="0" frameY="-11" frameWidth="512" frameHeight="529"/>
+	<SubTexture name="Silir Laugh0001" x="512" y="590" width="502" height="521" frameX="-8" frameY="-7" frameWidth="512" frameHeight="529"/>
+	<SubTexture name="Silir Laugh0002" x="1014" y="590" width="487" height="526" frameX="-21" frameY="-2" frameWidth="512" frameHeight="529"/>
+	<SubTexture name="Silir Laugh0003" x="1014" y="590" width="487" height="526" frameX="-21" frameY="-2" frameWidth="512" frameHeight="529"/>
+	<SubTexture name="Silir Laugh0004" x="1501" y="590" width="500" height="512" frameX="-11" frameY="-16" frameWidth="512" frameHeight="529"/>
+	<SubTexture name="Silir Laugh0005" x="2001" y="590" width="494" height="518" frameX="-15" frameY="-10" frameWidth="512" frameHeight="529"/>
+	<SubTexture name="Silir Laugh0006" x="2495" y="590" width="485" height="528" frameX="-19" frameY="0" frameWidth="512" frameHeight="529"/>
+	<SubTexture name="Silir Laugh0007" x="2495" y="590" width="485" height="528" frameX="-19" frameY="0" frameWidth="512" frameHeight="529"/>
+	<SubTexture name="Silir Laugh0008" x="2980" y="590" width="481" height="518" frameX="-22" frameY="-10" frameWidth="512" frameHeight="529"/>
+	<SubTexture name="Silir Laugh0009" x="2980" y="590" width="481" height="518" frameX="-22" frameY="-10" frameWidth="512" frameHeight="529"/>
+	<SubTexture name="Silir Laugh0010" x="3461" y="590" width="477" height="511" frameX="-23" frameY="-16" frameWidth="512" frameHeight="529"/>
+	<SubTexture name="Silir Left0000" x="3938" y="590" width="542" height="538" frameX="-38" frameY="-39" frameWidth="852" frameHeight="577"/>
+	<SubTexture name="Silir Left0001" x="4480" y="590" width="555" height="543" frameX="-20" frameY="-34" frameWidth="852" frameHeight="577"/>
+	<SubTexture name="Silir Left0002" x="5035" y="590" width="562" height="547" frameX="0" frameY="-30" frameWidth="852" frameHeight="577"/>
+	<SubTexture name="Silir Left0003" x="5035" y="590" width="562" height="547" frameX="0" frameY="-30" frameWidth="852" frameHeight="577"/>
+	<SubTexture name="Silir Left0004" x="5597" y="590" width="541" height="543" frameX="-44" frameY="-34" frameWidth="852" frameHeight="577"/>
+	<SubTexture name="Silir Left0005" x="5597" y="590" width="541" height="543" frameX="-44" frameY="-34" frameWidth="852" frameHeight="577"/>
+	<SubTexture name="Silir Left0006" x="6138" y="590" width="532" height="541" frameX="-83" frameY="-36" frameWidth="852" frameHeight="577"/>
+	<SubTexture name="Silir Left0007" x="6138" y="590" width="532" height="541" frameX="-83" frameY="-36" frameWidth="852" frameHeight="577"/>
+	<SubTexture name="Silir Left0008" x="6670" y="590" width="570" height="525" frameX="-139" frameY="-52" frameWidth="852" frameHeight="577"/>
+	<SubTexture name="Silir Left0009" x="7240" y="590" width="504" height="564" frameX="-288" frameY="-7" frameWidth="852" frameHeight="577"/>
+	<SubTexture name="Silir Left0010" x="0" y="1154" width="567" height="571" frameX="-285" frameY="0" frameWidth="852" frameHeight="577"/>
+	<SubTexture name="Silir Right0000" x="567" y="1154" width="558" height="537" frameX="-110" frameY="-39" frameWidth="676" frameHeight="576"/>
+	<SubTexture name="Silir Right0001" x="1125" y="1154" width="563" height="528" frameX="-110" frameY="-48" frameWidth="676" frameHeight="576"/>
+	<SubTexture name="Silir Right0002" x="1688" y="1154" width="563" height="513" frameX="-113" frameY="-63" frameWidth="676" frameHeight="576"/>
+	<SubTexture name="Silir Right0003" x="1688" y="1154" width="563" height="513" frameX="-113" frameY="-63" frameWidth="676" frameHeight="576"/>
+	<SubTexture name="Silir Right0004" x="2251" y="1154" width="559" height="537" frameX="-109" frameY="-39" frameWidth="676" frameHeight="576"/>
+	<SubTexture name="Silir Right0005" x="2251" y="1154" width="559" height="537" frameX="-109" frameY="-39" frameWidth="676" frameHeight="576"/>
+	<SubTexture name="Silir Right0006" x="2810" y="1154" width="542" height="542" frameX="-101" frameY="-34" frameWidth="676" frameHeight="576"/>
+	<SubTexture name="Silir Right0007" x="2810" y="1154" width="542" height="542" frameX="-101" frameY="-34" frameWidth="676" frameHeight="576"/>
+	<SubTexture name="Silir Right0008" x="3352" y="1154" width="523" height="549" frameX="-80" frameY="-27" frameWidth="676" frameHeight="576"/>
+	<SubTexture name="Silir Right0009" x="3875" y="1154" width="568" height="550" frameX="0" frameY="-21" frameWidth="676" frameHeight="576"/>
+	<SubTexture name="Silir Right0010" x="0" y="1154" width="567" height="571" frameX="-7" frameY="0" frameWidth="852" frameHeight="577"/>
+	<SubTexture name="Silir Up0000" x="4443" y="1154" width="547" height="881" frameX="-8" frameY="-62" frameWidth="624" frameHeight="947"/>
+	<SubTexture name="Silir Up0001" x="4990" y="1154" width="542" height="906" frameX="-4" frameY="-37" frameWidth="624" frameHeight="947"/>
+	<SubTexture name="Silir Up0002" x="5532" y="1154" width="528" height="943" frameX="0" frameY="0" frameWidth="624" frameHeight="947"/>
+	<SubTexture name="Silir Up0003" x="5532" y="1154" width="528" height="943" frameX="0" frameY="0" frameWidth="624" frameHeight="947"/>
+	<SubTexture name="Silir Up0004" x="6060" y="1154" width="547" height="868" frameX="-9" frameY="-75" frameWidth="624" frameHeight="947"/>
+	<SubTexture name="Silir Up0005" x="6060" y="1154" width="547" height="868" frameX="-9" frameY="-75" frameWidth="624" frameHeight="947"/>
+	<SubTexture name="Silir Up0006" x="6607" y="1154" width="550" height="811" frameX="-45" frameY="-132" frameWidth="624" frameHeight="947"/>
+	<SubTexture name="Silir Up0007" x="6607" y="1154" width="550" height="811" frameX="-45" frameY="-132" frameWidth="624" frameHeight="947"/>
+	<SubTexture name="Silir Up0008" x="7157" y="1154" width="572" height="644" frameX="-52" frameY="-299" frameWidth="624" frameHeight="947"/>
+	<SubTexture name="Silir Up0009" x="0" y="2097" width="567" height="561" frameX="-44" frameY="-386" frameWidth="624" frameHeight="947"/>
+	<SubTexture name="Silir Up0010" x="567" y="2097" width="567" height="571" frameX="-49" frameY="-376" frameWidth="624" frameHeight="947"/>
+</TextureAtlas>

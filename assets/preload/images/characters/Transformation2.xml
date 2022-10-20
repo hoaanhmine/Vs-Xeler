@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Transformation2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Transformation 20000" x="0" y="0" width="696" height="1010" frameX="-31" frameY="-92" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20001" x="696" y="0" width="685" height="1006" frameX="-29" frameY="-99" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20002" x="1381" y="0" width="800" height="1085" frameX="0" frameY="-42" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20003" x="2181" y="0" width="797" height="1104" frameX="-10" frameY="-21" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20004" x="2978" y="0" width="797" height="1105" frameX="-10" frameY="-21" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20005" x="3775" y="0" width="790" height="1081" frameX="-10" frameY="-44" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20006" x="4565" y="0" width="790" height="1082" frameX="-10" frameY="-44" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20007" x="5355" y="0" width="793" height="1091" frameX="-10" frameY="-35" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20008" x="6148" y="0" width="793" height="1090" frameX="-10" frameY="-35" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20009" x="6941" y="0" width="795" height="1088" frameX="-10" frameY="-38" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20010" x="0" y="1105" width="795" height="1088" frameX="-10" frameY="-38" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20011" x="795" y="1105" width="806" height="1077" frameX="-11" frameY="-48" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20012" x="1601" y="1105" width="806" height="1078" frameX="-11" frameY="-48" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20013" x="2407" y="1105" width="808" height="1094" frameX="-11" frameY="-32" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20014" x="3215" y="1105" width="807" height="1093" frameX="-12" frameY="-32" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20015" x="4022" y="1105" width="818" height="1103" frameX="-11" frameY="-23" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20016" x="4840" y="1105" width="818" height="1102" frameX="-11" frameY="-24" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20017" x="5658" y="1105" width="825" height="1107" frameX="-12" frameY="-18" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20018" x="6483" y="1105" width="825" height="1108" frameX="-12" frameY="-17" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20019" x="7308" y="1105" width="818" height="1110" frameX="-12" frameY="-15" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20020" x="0" y="2215" width="818" height="1111" frameX="-12" frameY="-14" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20021" x="818" y="2215" width="822" height="1110" frameX="-13" frameY="-15" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20022" x="1640" y="2215" width="822" height="1110" frameX="-13" frameY="-15" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20023" x="2462" y="2215" width="835" height="1124" frameX="-15" frameY="-1" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20024" x="3297" y="2215" width="835" height="1125" frameX="-15" frameY="0" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20025" x="4132" y="2215" width="845" height="1122" frameX="-14" frameY="-3" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20026" x="4977" y="2215" width="845" height="1122" frameX="-14" frameY="-3" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20027" x="5822" y="2215" width="854" height="1123" frameX="-14" frameY="-2" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20028" x="6676" y="2215" width="853" height="1123" frameX="-14" frameY="-2" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20029" x="0" y="3340" width="862" height="1123" frameX="-14" frameY="-2" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20030" x="862" y="3340" width="862" height="1123" frameX="-14" frameY="-2" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20031" x="1724" y="3340" width="859" height="1120" frameX="-15" frameY="-5" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20032" x="2583" y="3340" width="859" height="1120" frameX="-15" frameY="-5" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20033" x="3442" y="3340" width="861" height="1120" frameX="-15" frameY="-5" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20034" x="4303" y="3340" width="861" height="1120" frameX="-15" frameY="-5" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20035" x="5164" y="3340" width="858" height="1121" frameX="-15" frameY="-4" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20036" x="6022" y="3340" width="858" height="1121" frameX="-15" frameY="-4" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20037" x="6880" y="3340" width="815" height="1092" frameX="-14" frameY="-30" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20038" x="0" y="4463" width="734" height="1060" frameX="-1" frameY="-63" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20039" x="734" y="4463" width="720" height="1013" frameX="-30" frameY="-89" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20040" x="1454" y="4463" width="706" height="1021" frameX="-36" frameY="-81" frameWidth="876" frameHeight="1127"/>
+	<SubTexture name="Transformation 20041" x="1454" y="4463" width="706" height="1021" frameX="-36" frameY="-81" frameWidth="876" frameHeight="1127"/>
+</TextureAtlas>

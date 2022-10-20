@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="2012Effect.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="20120000" x="5" y="5" width="960" height="600"/>
+	<SubTexture name="20120001" x="975" y="5" width="960" height="600"/>
+	<SubTexture name="20120002" x="5" y="615" width="960" height="600"/>
+	<SubTexture name="20120003" x="975" y="615" width="960" height="600"/>
+	<SubTexture name="20120004" x="5" y="1225" width="960" height="600"/>
+	<SubTexture name="20120005" x="975" y="1225" width="960" height="600"/>
+	<SubTexture name="20120006" x="5" y="1835" width="960" height="600"/>
+	<SubTexture name="20120007" x="975" y="1835" width="960" height="600"/>
+	<SubTexture name="20120008" x="1945" y="5" width="960" height="600"/>
+	<SubTexture name="20120009" x="1945" y="615" width="960" height="600"/>
+	<SubTexture name="20120010" x="1945" y="1225" width="960" height="600"/>
+	<SubTexture name="20120011" x="5" y="5" width="960" height="600"/>
+	<SubTexture name="20120012" x="975" y="5" width="960" height="600"/>
+	<SubTexture name="20120013" x="5" y="615" width="960" height="600"/>
+	<SubTexture name="20120014" x="975" y="615" width="960" height="600"/>
+	<SubTexture name="20120015" x="5" y="1225" width="960" height="600"/>
+	<SubTexture name="20120016" x="975" y="1225" width="960" height="600"/>
+	<SubTexture name="20120017" x="5" y="1835" width="960" height="600"/>
+	<SubTexture name="20120018" x="975" y="1835" width="960" height="600"/>
+	<SubTexture name="20120019" x="1945" y="5" width="960" height="600"/>
+	<SubTexture name="20120020" x="1945" y="615" width="960" height="600"/>
+	<SubTexture name="20120021" x="1945" y="1225" width="960" height="600"/>
+	<SubTexture name="20120022" x="5" y="5" width="960" height="600"/>
+	<SubTexture name="20120023" x="975" y="5" width="960" height="600"/>
+	<SubTexture name="20120024" x="5" y="615" width="960" height="600"/>
+	<SubTexture name="20120025" x="975" y="615" width="960" height="600"/>
+	<SubTexture name="20120026" x="5" y="1225" width="960" height="600"/>
+	<SubTexture name="20120027" x="975" y="1225" width="960" height="600"/>
+	<SubTexture name="20120028" x="5" y="1835" width="960" height="600"/>
+	<SubTexture name="20120029" x="975" y="1835" width="960" height="600"/>
+	<SubTexture name="20120030" x="1945" y="5" width="960" height="600"/>
+	<SubTexture name="20120031" x="1945" y="615" width="960" height="600"/>
+	<SubTexture name="20120032" x="1945" y="1225" width="960" height="600"/>
+	<SubTexture name="20120033" x="5" y="5" width="960" height="600"/>
+	<SubTexture name="20120034" x="975" y="5" width="960" height="600"/>
+	<SubTexture name="20120035" x="5" y="615" width="960" height="600"/>
+	<SubTexture name="20120036" x="975" y="615" width="960" height="600"/>
+	<SubTexture name="20120037" x="5" y="1225" width="960" height="600"/>
+	<SubTexture name="20120038" x="975" y="1225" width="960" height="600"/>
+	<SubTexture name="20120039" x="5" y="1835" width="960" height="600"/>
+	<SubTexture name="20120040" x="975" y="1835" width="960" height="600"/>
+	<SubTexture name="20120041" x="1945" y="5" width="960" height="600"/>
+	<SubTexture name="20120042" x="1945" y="615" width="960" height="600"/>
+	<SubTexture name="20120043" x="1945" y="1225" width="960" height="600"/>
+	<SubTexture name="20120044" x="5" y="5" width="960" height="600"/>
+	<SubTexture name="20120045" x="975" y="5" width="960" height="600"/>
+	<SubTexture name="20120046" x="5" y="615" width="960" height="600"/>
+	<SubTexture name="20120047" x="975" y="615" width="960" height="600"/>
+	<SubTexture name="20120048" x="5" y="1225" width="960" height="600"/>
+	<SubTexture name="20120049" x="975" y="1225" width="960" height="600"/>
+	<SubTexture name="20120050" x="5" y="1835" width="960" height="600"/>
+	<SubTexture name="20120051" x="975" y="1835" width="960" height="600"/>
+	<SubTexture name="20120052" x="1945" y="5" width="960" height="600"/>
+	<SubTexture name="20120053" x="1945" y="615" width="960" height="600"/>
+	<SubTexture name="20120054" x="1945" y="1225" width="960" height="600"/>
+	</TextureAtlas>

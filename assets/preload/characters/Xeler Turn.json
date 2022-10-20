@@ -1,0 +1,92 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-112,
+				237
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Xeler faker left"
+		},
+		{
+			"offsets": [
+				-186,
+				-187
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Xeler faker Down"
+		},
+		{
+			"offsets": [
+				-188,
+				-129
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Xeler faker Up"
+		},
+		{
+			"offsets": [
+				-185,
+				-157
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Xeler faker right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				223
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Transformation 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-57,
+				223
+			],
+			"indices": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "Tranformation 1",
+			"loop": false,
+			"name": "Transformation 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Transformation1",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Xelerfaker",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		114,
+		185
+	],
+	"camera_position": [
+		100,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
